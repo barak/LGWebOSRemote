@@ -1,0 +1,3 @@
+version=4
+
+https://github.com/klattimer/LGWebOSRemote/tags (?:.*/)?v?@ANY_VERSION@@ARCHIVE_EXT@
