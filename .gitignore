@@ -4,3 +4,4 @@ venv/
 __pycache__/
 /.pybuild/
 .DS_Store
+/build/
